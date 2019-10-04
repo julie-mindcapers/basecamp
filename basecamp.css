@@ -1,0 +1,39 @@
+/*
+* BaseCamp, (c) MindCapers 2019
+* 
+* Published under GPL3.0. MindCapers reserves the right to publish this original software
+* under any other license for consideration. 
+*
+* julie@mindcapers.com
+*
+*/
+
+#basecamp.header
+{
+  margin: 3px;
+  alignment: center;
+  width: 100%;
+}
+
+#basecamp.footer
+{
+  margin: 3px;
+  alignment: center;
+  width: 100%;
+}
+
+#basecamp.topnavbar
+{
+}
+
+#basecamp.leftnavbar
+{
+}
+
+#basecamp.rightnavbar
+{
+}
+
+#basecamp.bottomnavbar
+{
+}
