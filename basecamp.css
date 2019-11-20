@@ -8,32 +8,50 @@
 *
 */
 
-#basecamp.header
+.div_basic
 {
-  margin: 3px;
-  alignment: center;
-  width: 100%;
+  padding: 15px;
 }
 
-#basecamp.footer
+a.hover
 {
-  margin: 3px;
-  alignment: center;
-  width: 100%;
+  background-color: hotpink;
 }
 
-#basecamp.topnavbar
+#basecamp_header
 {
+  color: white;
+  background-color: purple;
+  text-align: left;
+}
+
+#basecamp_topnavbar
+{
+  color: white;
+  background-color: gray;
+}
+
+/* Ensure there is only one of each major element with divs */
+#basecamp_footer
+{
+  color: white;
+  background-color: gray;
+  text-align: center;
+  width: 100%;
 }
 
 #basecamp.leftnavbar
 {
+  color: gray;
+  padding: 10;
 }
 
-#basecamp.rightnavbar
+/* #basecamp.rightnavbar
 {
 }
 
 #basecamp.bottomnavbar
 {
 }
+*/
+
